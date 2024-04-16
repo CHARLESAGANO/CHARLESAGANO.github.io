@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0%;
+    padding: 30px;
+}
+
+h1 {
+    font-size:large
+    color: blueviolet;
+}
+h2 {
+    font-size: medium;
+    color: brown;
+    padding: 0ch;
+}
+h3 {
+    font-size:small;
+    color: chocolate;
+}
+p {
+    font-size: small;
+    line-height: normal;
+    margin-bottom:0cap;
+    color: aqua;
+}
